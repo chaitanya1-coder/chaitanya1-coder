@@ -1,5 +1,5 @@
 ## Hello World 👋, I'm CHAITANYA !
-###### CSE Student | Google DSC Lead'21 | Cyber Security Intern at GPCSSI'21 
+#### CSE Student | Google DSC Lead'21 | Cyber Security Intern at GPCSSI'21 
 ![CSE Student | Google DSC Lead'21 | Cyber Security Intern at GPCSSI'21 ](https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif?cid=ecf05e47dnx9hvhp4s19jmqjtamu756njb0h2z7ndntngu01&rid=giphy.gif&ct=g)
 
 I am pursuing B.E. ( CSE ) from GGSIPU, New Delhi, India. I am a passionate coder and a budding poet. I am a Content writer and a Web Developer. I love to travel and explore new places. 
