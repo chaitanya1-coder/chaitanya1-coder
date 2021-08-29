@@ -4,7 +4,7 @@
 
 I am pursuing B.E. ( CSE ) from GGSIPU, New Delhi, India. I am a passionate coder and a budding poet. I am a Content writer and a Web Developer. I love to travel and explore new places. 
 I believe that technology has the power to change anything and no matter what using technology we can solve each and every problem of this world. I am currently leading the Google Developer Student Club of my campus and founder of CodeInHelp community. 
-You can check my ([Portfolio.](https://chaitanya1-coder.github.io/MyPortfolio/)
+You can check my [Portfolio.](https://chaitanya1-coder.github.io/MyPortfolio/)
 
 Skills: JS / HTML / CSS / C++
 
