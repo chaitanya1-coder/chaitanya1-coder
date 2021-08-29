@@ -11,7 +11,7 @@ Skills: JS / HTML / CSS / C++
 - 🔭 I’m currently working on @([CodeInHelp](https://www.instagram.com/codeinhelp/)) 
 - 🌱 I’m currently learning ReactJS, DSA 
 - 👯 I’m looking to collaborate on JavaScript projects 
-- 📫 How to reach me: ([Mail](mailto: chaitanyachawlaonlinework@gmail.com)) 
+- 📫 How to reach me: [Mail](chaitanyachawlaonlinework@gmail.com) 
 - ⚡ Fun fact: Programmer- A machine that turns coffee into code. 
 
 
