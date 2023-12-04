@@ -1,4 +1,4 @@
-## Hello World 👋, I'm CHAITANYA !
+## Hello World 👋
 #### Developer Relations Engineer 
 
 I am Chaitanya, a passionate coder. I have more than three years of experience in building and scaling developers communities and currently working as a Developer Relations Engineer. My technical interests are Web Development, Machine Learning and Blockchain. 
