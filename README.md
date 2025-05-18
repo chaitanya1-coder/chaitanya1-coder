@@ -9,7 +9,7 @@ You can check my [Portfolio.](https://zaap.bio/chaitanyachawla)
 
 Skills: JavaScript | C++ | Developer Relations
 
-- 🔭 I’m currently working at @[STYAVA](https://www.youtube.com/@STYAVA) 
+- 🔭 I’m currently working at @[MongoDB](https://www.youtube.com/@MongoDB) 
 - 👯 I’m looking to collaborate on JavaScript projects. 
 - 📫 How to reach me: [Mail](mailto:chaitanyachawlaonlinework@gmail.com) 
 - ⚡ Fun fact: Programmer- A machine that turns coffee into code. 
